@@ -1,0 +1,8 @@
+[package]
+name = "px"
+version = "0.1.0"
+authors = ["Benny A <virusdownloader7@gmail.com>"]
+
+[dependencies]
+xcb = "*"
+xcb-util = "*"
